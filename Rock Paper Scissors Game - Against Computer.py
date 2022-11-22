@@ -1,5 +1,5 @@
 # Input
-player_action = input("Choose from rock, paper, or scissors: ")
+player_one = input("Choose from rock, paper, or scissors: ")
 #computer_action = input("choose from rock, paper, or scissors: ")
 
 # Processing
